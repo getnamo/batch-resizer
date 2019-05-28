@@ -1,0 +1,9 @@
+{
+	"name": "batch-resizer",
+	"version": "0.1.0",
+	"description": "resizes images",
+	"dependencies": {
+		"exif-parser": "^0.1.12",
+		"sharp": "^0.22.1"
+	}
+}

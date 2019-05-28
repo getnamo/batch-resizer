@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+
+# ignore input/output folders
+input
+small
+
+!input/.gitkeep
+!small/.gitkeep
