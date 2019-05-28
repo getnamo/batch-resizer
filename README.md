@@ -4,9 +4,16 @@ batch resize images using npm sharp and exif-parser
 
 ## Basic Usage
 
+### Setup
+1. ensure [node.js](https://nodejs.org/en/download/) is installed
+2. open command prompt in this repo's folder and type ```npm install``` to install dependencies
+
+## Use
 1. Place images for resize in ```Input``` folder
 2. Double click ```ResizeAll.bat```
 3. Resized images found in ```Small``` folder
+
+Size can be changed by modifying ```ResizeAll.bat```
 
 
 ## Node Usage
