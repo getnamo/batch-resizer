@@ -1,5 +1,5 @@
 # batch-resizer
-batch resize images using npm sharp and exif-parser
+A very simple batch image resizer using npm sharp and exif-parser modules. This utility will apply exif rotation data to the resized image.
 
 
 ## Basic Usage
