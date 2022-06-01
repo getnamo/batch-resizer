@@ -4,6 +4,6 @@
 	"description": "resizes images",
 	"dependencies": {
 		"exif-parser": "^0.1.12",
-		"sharp": "^0.22.1"
+		"sharp": "^0.30.5"
 	}
 }
